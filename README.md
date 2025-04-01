@@ -2,13 +2,8 @@
 <br>
 <h2 align=center>
   <img src="https://raw.githubusercontent.com/cotelesse/Easy-Shop/63c8d6a264b4efb7b4330c88212f84fcdff31189/img/Illustration-3-3.svg" alt="logo-easy-shop" width=250px >
-<h2>
+
   <br>
-<p align="center">
-  <a href="#house-Sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#book-Projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
 
 <br>
 
