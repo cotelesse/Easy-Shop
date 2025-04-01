@@ -1,12 +1,9 @@
 <h1 align=center>Easy Shop</h1>
 <br>
-<h2>
-  
-<p align="center">
-  <a href="#house-Sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#book-Projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
+<h2 align=center>
+  <img src="https://raw.githubusercontent.com/cotelesse/Easy-Shop/63c8d6a264b4efb7b4330c88212f84fcdff31189/img/Illustration-3-3.svg" alt="logo-easy-shop" width=250px >
+
+  <br>
 
 <br>
 
@@ -24,7 +21,7 @@
 
 <h5>Segue imagens de como ficou o projeto finalizado</h5>
 <p>Versão Web: </p>
-<img src="https://github.com/cotelesse/Easy-Shop/blob/master/img/IMG-WEB.png?raw=true" max-width=75% >
+<img src="https://github.com/cotelesse/Easy-Shop/blob/master/img/IMG-WEB.png?raw=true" width=75% >
 <br>
 <p>Versão Responsiva: </p>
-<img src="https://github.com/cotelesse/Easy-Shop/blob/master/img/IMG-MOBILE.png?raw=true" max-width=75% >
+<img src="https://github.com/cotelesse/Easy-Shop/blob/master/img/IMG-MOBILE.png?raw=true" width=25% >
